@@ -68,11 +68,3 @@
 - `google-cloud-bigquery`
 - Другие зависимости перечислены в файле `requirements.txt`.
 
-## Лицензия
-
-Этот проект лицензирован под [MIT License](LICENSE).
-
-## Автор
-
-- **Ваше имя** - *Изначальная работа* - [Ваш профиль на GitHub](https://github.com/username)
-
